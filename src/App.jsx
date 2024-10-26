@@ -22,9 +22,6 @@ function App() {
       </div>
       </div>
       <Grid/>
-      <footer>
-            ``
-      </footer>
     </>
 
   )
